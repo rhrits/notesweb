@@ -1,1 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.toolbar {
+    /* Style the toolbar area */
+}
+
+.editor {
+    display: flex;
+}
+
+#text-editor {
+    flex: 1;
+    /* Style the text editor area */
+}
+
+#drawing-canvas {
+    /* Style the drawing canvas area */
+}
+
+#download-btn {
+    /* Style the download button */
+}
 
